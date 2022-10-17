@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-iu-rt/react",
+  "name": "@ignite-ui-rt/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
