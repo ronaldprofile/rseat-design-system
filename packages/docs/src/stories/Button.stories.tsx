@@ -3,7 +3,7 @@ import { Button, ButtonProps } from '@ignite-ui-rt/react'
 import { StoryObj, Meta } from '@storybook/react'
 
 export default {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
   args: {
     children: 'Send',
