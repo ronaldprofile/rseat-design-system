@@ -22,7 +22,7 @@ export const TextInputContainer = styled('div', {
 export const Prefix = styled('span', {
   fontFamily: '$default',
   fontSize: '$sm',
-  fontWeight: 'regular',
+  fontWeight: '$regular',
   color: '$gray400',
 })
 
