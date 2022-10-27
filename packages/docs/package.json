@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@ignite-ui-rt/docs",
   "version": "1.0.0",
   "description": "",
   "main": "vite.config.js",
